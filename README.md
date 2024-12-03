@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:03/12/2024
+## Register Number:24900893
+## Name:THARRUN D
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,42 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+Alumni Registration Easy Registration: Simple processes on web and mobile for alumni to join, update profiles, and stay connected.
+Donation Portal 
+Secure Donations: Effortless donation options on both platforms to support college initiatives and projects.
+Networking Hub 
+Connect with Peers: Sections dedicated to networking based on interests, professions, and locations.
+Job Portal 
+ Career Opportunities: Integrated job search and posting features to explore jobs and connect with potential employers.
+Alumni Directory 
+Search and Connect: Advanced search options to find alumni by graduation year, field of study, industry, and location.
+Success Story Tracking 
+Showcase Achievements: Features to highlight and track alumni success stories and contributions.
+Events and Reunions
+Organize and Manage: Tools for event announcements, registrations, and management of alumni gatherings.
+Feedback and Surveys 
 
 ## Proposed Solution / Architecture Diagram
-
+![alt text](1.jpg)
 
 ## Use Cases
-
+![alt text](22.jpg)
 
 ## Technology Stack
+React.js
 
+Node.js
 
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
